@@ -44,7 +44,6 @@ content:
         www.thor-photography.com Drone and time lapse footage I've shot while
         travelling and guiding photographers in the magnificent landscape of
         Iceland.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
@@ -64,3 +63,5 @@ content_rating:
 author:
   name: Kate
   email: kboyko1999@gmail.com
+title: eltit etis yM
+description: ''
