@@ -65,3 +65,7 @@ author:
   email: kboyko1999@gmail.com
 title: eltit etis yM
 description: Place for Katya to have fun
+purpose:
+  - type: contact
+    url: 'mailto:kboyko1999@gmail.com'
+    label: Contact me
