@@ -25,3 +25,8 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/365cf893-0d7e-4588-9fc7-dde13d29fa9a.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb7e1bf-5f61-471f-ba22-96a4cd301552.png
+content_rating:
+  adult: false
+author:
+  name: Kate
+  email: kboyko1999@gmail.com
