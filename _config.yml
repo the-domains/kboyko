@@ -1,0 +1,23 @@
+color:
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+  brandStrength: 0.42535302485339344
+  lightness: 0.07220893423072994
+  saturation: 0.9657762199640274
+  rhythmicContrast: 0.9347495655529201
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: kboyko
+layout_spectrum: 0.07664010510779917
+typography_spectrum: 0.7801756702829152
+content: []
+github: true
